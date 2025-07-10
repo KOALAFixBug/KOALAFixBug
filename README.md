@@ -1,16 +1,3 @@
-## Hi there I'm Lã Đăng Khoa - You can call me Koala 👋
-
-<!--
-**KOALAFixBug/KOALAFixBug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently a third-year student at VNUHCM - University of Information Technology (UIT)
-- 🌱 I’m currently learning Japanese 
-- ⚡ Fun fact: I can sleep up to 18 hours a day
-
-
-
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/angkhoala.2025?locale=vi_VN) 
 
