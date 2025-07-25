@@ -2,7 +2,7 @@ Hi there👋 I'm Lã Đăng Khoa - You can call me Koala 🐨
 
 - 🔭 I’m currently a third-year student at VNUHCM - University of Information Technology (UIT)
 - 🌱 I’m currently learning Japanese.
-- ♟️ Hobby: Chess & Badminton
+- ♟️ Hobby: Chess & Badminton.
 - ⚡ Fun fact: I can sleep up to 18 hours a day.
 - 🟢 Favorite color: Green.
 - 🧠 Philosophy: "Keep learning, keep growing".
