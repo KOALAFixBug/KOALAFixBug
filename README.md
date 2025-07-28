@@ -4,8 +4,8 @@ Hi there👋 I'm Lã Đăng Khoa - You can call me Koala 🐨.
 - 🌱 I’m currently learning Japanese.
 - ♟️ Hobby: Chess & Badminton.
 - ⚡ Fun fact: I can sleep up to 18 hours a day.
-- 🟢 Favorite color: Green.
-- 🧠 Philosophy: "Keep learning, keep growing".
+- 🟢 Favorite color: Green
+- 🧠 Philosophy: "Keep learning, keep growing"
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/angkhoala.2025?locale=vi_VN) 
