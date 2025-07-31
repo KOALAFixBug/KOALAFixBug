@@ -1,4 +1,4 @@
-Hi there👋 I'm Lã Đăng Khoa - You can call me Koala 🐨.
+Hi there👋 I'm Lã Đăng Khoa - You can call me Koala 🐨
 
 - 🔭 I’m currently a third-year student at VNUHCM - University of Information Technology (UIT).
 - 🌱 I’m currently learning Japanese.
